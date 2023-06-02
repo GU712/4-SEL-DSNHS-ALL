@@ -242,7 +242,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]De Volta ao Planeta dos Macacos (1975) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B1M-DSNHS-LS-MTX/main/C27-SRS-Volta.Plan.Macacos-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/B19-SRS-De.Volta.ao.Planeta.dos.Macacos-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/g8p93ff4aG2liHzta5IW5H0oa5k.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/qBbHuf8lbyHvUd8U7wRYdPSB1C7.jpg</fanart>
 <info>Assista a série De Volta ao Planeta dos Macacos. 
@@ -377,13 +377,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]Jornada nas Estrelas: A Serie Animada (1973-1974) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B1M-DSNHS-LS-MTX/main/C38-SRS-Star.Trek.Ser.Anim.-MTX</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/3PHDmFodOd2C9BIGq00DdJzoVou.jpg</thumbnail>				
+<externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/B20-SRS-Star.Trek.A.Serie.Animada-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/3PHDmFodOd2C9BIGq00DdJzoVou.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/3EnHbhNv6UyVFRenauB465HqHNJ.jpg</fanart>
-<info>Assista a série Jornada nas Estrelas: A Serie Animada. 
-[COLOR orange][B]DESENHOS[/B][/COLOR]
-[COLOR orange][B]02 TEMPS - 22 EPs[/B][/COLOR]
-[COLOR orange][B]ANOS - 1973 a 1974[/B][/COLOR]</info>
+<info>[COLOR white]Assista aqui a série: 
+[B] Jornada nas Estrelas: A Serie Animada
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANO - 1973 a 1974
+[COLOR orange]FICÇÃO E FANTASIA
+[COLOR orange]02 TEMPs - 22 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B] Audaciosamente indo, aonde nenhum homem jamais esteve
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -631,20 +635,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "V"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-
-<channels>
-<channel>
-<name>[COLOR white][B]De Volta ao Planeta dos Macacos (1975) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/B18-SRS-De.Volta.ao.Planeta.dos.Macacos-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/g8p93ff4aG2liHzta5IW5H0oa5k.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/qBbHuf8lbyHvUd8U7wRYdPSB1C7.jpg</fanart>
-<info>Assista a série De Volta ao Planeta dos Macacos. 
-[COLOR orange][B]DESENHOS[/B][/COLOR]
-[COLOR orange][B]01 TEMPS - 13 EPs[/B][/COLOR]
-[COLOR orange][B]ANO - 1975[/B][/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "X"				
