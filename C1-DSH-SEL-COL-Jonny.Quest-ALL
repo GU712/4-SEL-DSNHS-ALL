@@ -1,7 +1,7 @@
 <channels>
 <channel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/B29-SRS-ESP-JONNY.QUEST-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/C1-DSH-SEL-COL-Jonny.Quest-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
@@ -19,7 +19,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui a série: 
 [B]Jonny Quest
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange][B]DESENHOS
+[COLOR orange][B]AVENTURA
 [COLOR orange][B]01 TEMP - 26 EPs
 [COLOR orange][B]ANO - 1964
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Jonny Quest , junto com o seu pai cientista e um grupo de amigos, viajam em missões secretas resolvendo diversos mistérios.
@@ -36,9 +36,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://www.themoviedb.org/t/p/original/qMzTVAKZc64UuqxnZlg5gX7CGYA.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
 [B]As Novas Aventuras de Jonny Quest
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]INCOMPLETA ATUALIZANDO
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]ANO - 1986
-[COLOR orange]DESENHOS
+[COLOR orange]AVENTURA
 [COLOR orange]01 TEMP - 13 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Jonny Quest , junto com o seu pai cientista e um grupo de amigos, viajam em novas missões secretas resolvendo diversos mistérios.
 [/COLOR]</info>
@@ -48,14 +48,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]As Incríveis Aventuras do Jonny Quest (1996) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR white][B]As Incríveis Aventuras de Jonny Quest (1996) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/C1C-DSH-SRS-Inc.Avent.Jonny.Quest-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/vx8KdVNOpHVBR0x30shg5kcGnd7.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/iIQKA17YHJUmGYRpXmP0KXaxq99.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
 [B]As Incríveis Aventuras do Jonny Quest
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange][B]DESENHOS
+[COLOR orange][B]AVENTURA
 [COLOR orange][B]02 TEMPS - 52 EPs
 [COLOR orange][B]ANOS -  1996
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Uma nova versão com o título de The Real Adventures of Jonny Quest. Tinha um atrativo especial: ao lado da animação costumeira, havia cenas tridimensionais geradas por computador.
@@ -173,4 +173,3 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
