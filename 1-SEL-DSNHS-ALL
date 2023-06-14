@@ -11,7 +11,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
-<name>[COLOR white][B]DESENHOS -> S-LS - FILMES[/B][/COLOR]</name>
+<name>[COLOR white][B]S-LS -> DESENHOS - FILMES[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/A-FLMS-DSNHS-ALL</externallink>
 <thumbnail>https://i.ibb.co/pnmVmKM/DSNHS-SERV-LS.png</thumbnail>
 <fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
@@ -22,7 +22,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]DESENHOS -> S-LS - SÉRIES[/B][/COLOR]</name>
+<name>[COLOR white][B]S-LS -> DESENHOS - SÉRIES[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/B-SEL-DSNHS-SRS-ALL</externallink>
 <thumbnail>https://i.ibb.co/pnmVmKM/DSNHS-SERV-LS.png</thumbnail>
 <fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
@@ -33,7 +33,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]DESENHOS -> S-LS - COLEÇÔES[/B][/COLOR]</name>
+<name>[COLOR white][B]S-LS -> DESENHOS - COLEÇÔES[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/C-SEL-COL-DSH-ALL</externallink>
 <thumbnail>https://i.ibb.co/pnmVmKM/DSNHS-SERV-LS.png</thumbnail>
 <fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
@@ -44,7 +44,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]DESENHOS -> S-LS - SÉRIES LM [/B][/COLOR]</name>
+<name>[COLOR white][B]S-LS -> DESENHOS - SÉRIES LM [/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/C-SEL-DSNHS-LM-ALL</externallink>
 <thumbnail>https://i.ibb.co/pnmVmKM/DSNHS-SERV-LS.png</thumbnail>
 <fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
@@ -56,7 +56,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 <channels>
 <channel>
 <name>[COLOR black].[/COLOR]</name>
