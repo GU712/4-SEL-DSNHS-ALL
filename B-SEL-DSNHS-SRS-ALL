@@ -168,19 +168,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]BATMAN ESPECIAL (Filmes e Séries)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/B1-COL-BATMAN-ALL</externallink>
-<thumbnail>https://i.ibb.co/WHLNRq0/BATMAN-COL-ICON.png</thumbnail>
-<fanart>https://i.ibb.co/dt2tKwP/BATMAN-FAN.png</fanart>
-<info>Assista a coleção Batman. 
-[COLOR orange][B]SUPER-HERÓIS[/B][/COLOR]
-[COLOR orange][B]FILMES E SÉRIES[/B][/COLOR]
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
 <name>[COLOR white][B]Bob Esponja Calça Quadrada (1999-2019)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/B1M-DSNHS-LS-MTX/main/C7-SRS-Bob.Esp.C.Quad.1999-MTX</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/vzYIzF7izuXS5vKgFEhZwDTiCQ2.jpg</thumbnail>
@@ -229,20 +216,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange][B]ANOS - 1993 a 1994
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Versão Animada da aterrorizante série de terror.
 [/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]Corrida Maluca (1968-2018) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/B7-SRS-Corrida.Maluca-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/pfwENDuQ5cjD5ANgvMkgS9MRHcB.jpg</fanart>
-<info>Assista a série Corrida Maluca. 
-[COLOR orange][B]DESENHOS[/B][/COLOR]
-[COLOR orange][B]03 TEMPS - 112 EPs[/B][/COLOR]
-[COLOR orange][B]ANOS - 1968 a 2018[/B][/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -387,19 +360,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "H"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
-<channels>
-<channel>
-<name>[COLOR white][B]HOMEM-ARANHA ESPECIAL (Filmes e Séries)[/B][/COLOR]</name>
-<externallink>https://github.com/GU712/2H-LS-SPH-ALL/blob/main/B6-COL-H.ARANHA-ALL</externallink>
-<thumbnail>https://i.ibb.co/BPVDxwY/H-ARANHA-COL.png</thumbnail>
-<fanart>https://i.ibb.co/C0g0xhH/H-ARANHA-FAN.png</fanart>
-<info>Assista o especial Homem-Aranha. 
-[COLOR orange][B]SUPER-HERÓIS[/B][/COLOR]
-[COLOR orange][B]FILMES E SÉRIES[/B][/COLOR]
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "I"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
@@ -408,23 +368,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "J"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 
-<channels>
-<channel>
-<name>[COLOR white][B]JONNY QUEST - COLEÇÃO (3 Séries)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/C1-DSH-SEL-COL-Jonny.Quest-ALL</externallink>
-<thumbnail>https://i.ibb.co/hCr3kqf/COL-JONNYQUEST-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/hRyWcfR/COL-JONNYQUEST-FAN-ALL.png</fanart>
-<info>[COLOR white]Assista aqui a coleção: 
-[B]Jonny Quest
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange][B]AVENTURA
-[COLOR orange][B]03 SÉRIES
-[COLOR orange][B]ANOS - 1964 a 1996 
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você pode assistir o que já conseguimos sobre o personagem Jonny Quest.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
@@ -624,8 +567,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]Papa-Léguas (1949-2014) - INCOMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/B32-SRS-Papa.Leguas-ALL</externallink>
-<thumbnail>https://i.ibb.co/KXmQppq/SRS-PAPALEGUAS-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/nPpw27N/SRS-PAPALEGUAS-FAN-ALL.png</fanart>
+<thumbnail>https://i.ibb.co/37k899N/SRS-PAPALEGUAS-ICON-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/LNK0wxX/SRS-PAPALEGUAS-FAN-ALL.png</fanart>
 <info>[COLOR white]Assista aqui a série: 
 [B]Papa-Léguas
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]INCOMPLETA
