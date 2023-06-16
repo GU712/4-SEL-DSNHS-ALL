@@ -24,13 +24,13 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <channels>
 <channel>
-<name>[COLOR white][B]Batman (Filmes e Séries)[/B][/COLOR]</name>
+<name>[COLOR white][B]Batman (Filmes - Séries - Desenhos)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/B1-SEL-ESP-BATMAN-ALL</externallink>
 <thumbnail>https://i.ibb.co/tmvVSd1/ESP-BATMAN-ICON-ALL-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/Mh8Gfr1/ESP-BATMAN-FAN-ALL.png</fanart>
-<info>Assista a coleção Batman. 
+<info>Assista o especial Batman. 
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange][B]SUPER-HERÓIS
-[COLOR orange][B]FILMES E SÉRIES
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você pode assistir o que já conseguimos sobre Batman.
 [/COLOR]</info>
 </channel>
@@ -47,16 +47,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Dick Vigarista e Mutley (Séries)[/B][/COLOR]</name>
+<name>[COLOR white][B]Dick Vigarista e Mutley (Desenhos)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/C2-DSH-SEL-COL-Corrida.Maluca-ALL</externallink>
 <thumbnail>https://i.ibb.co/x7zDZ86/COL-DICKVIGARISTA-ICON-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/xLbrVJr/COL-DICKVIGARISTA-FAN-ALL.png</fanart>
 <info>[COLOR white]Assista aqui a coleção: 
 [B]Dick Vigarista e Mutley
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange][B]COMÉDIA
-[COLOR orange][B]03 SÉRIES
-[COLOR orange][B]ANOS - 1968 a 2018 
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você pode assistir o que já conseguimos sobre Dick Vigarista e Mutley.
 [/COLOR]</info>
 </channel>
@@ -81,13 +79,13 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <channels>
 <channel>
-<name>[COLOR white][B]Homem-Aranha (Filmes e Séries)[/B][/COLOR]</name>
+<name>[COLOR white][B]Homem-Aranha (Filmes e Desenhos)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/B6-SEL-ESP-H.ARANHA-ALL</externallink>
 <thumbnail>https://i.ibb.co/FKwj8X4/ESP-H-ARANHA-ICON-ALL-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/9tv1KPM/ESP-H-ARANHA-FAN-ALL.png</fanart>
 <info>Assista o especial Homem-Aranha. 
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange][B]SUPER-HERÓIS
-[COLOR orange][B]FILMES E SÉRIES
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você pode assistir o que já conseguimos sobre Homem-Aranha.
 [/COLOR]</info>
 </channel>
@@ -104,7 +102,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <channels>
 <channel>
-<name>[COLOR white][B]Jonny Quest (Séries)[/B][/COLOR]</name>
+<name>[COLOR white][B]Jonny Quest (Desenhos)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/C1-DSH-SEL-COL-Jonny.Quest-ALL</externallink>
 <thumbnail>https://i.ibb.co/QKpJ4sX/COL-JONNYQUEST-ICON-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/xjrtw80/COL-JONNYQUEST-FAN-ALL.png</fanart>
@@ -112,8 +110,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [B]Jonny Quest
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange][B]AVENTURA
-[COLOR orange][B]03 SÉRIES
-[COLOR orange][B]ANOS - 1964 a 1996 
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você pode assistir o que já conseguimos sobre Jonny Quest.
 [/COLOR]</info>
 </channel>
@@ -142,7 +138,23 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "P"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+				
+<channels>
+<channel>
+<name>[COLOR white][B]Pica-Pau (Filme e Desenhos)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESP-ALL/main/3-SEL-PICAPAU-ALL</externallink>
+<thumbnail>https://i.ibb.co/RYyWw5b/ESP-PICAPAU-ICON-ALL-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/DbQTfF8/ESP-PICAPAU-FAN-ALL.png</fanart>
+<info>[COLOR white]Assista o especial: 
+[B]Pica-Pau
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange][B]COMÉDIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você pode assistir o que já conseguimos sobre Pica-Pau.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "Q"				
