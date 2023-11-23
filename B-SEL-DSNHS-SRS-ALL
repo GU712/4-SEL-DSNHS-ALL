@@ -296,6 +296,24 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Corrida Maluca (2017-2018) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/C2B-DSH-SRS-A.Corrida.Maluca.NEW-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/lQ1Qk2rdXLaxDDFVmmxJfLzfZ51.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/f2PzX6WjS3e9wTizrNBHwBodmvn.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]A Corrida Maluca
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2017 a 2018
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 78 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Quando os motores dão a partida, a série de comédia animada mostra o retorno dos seus pilotos favoritos e seus carros malucos.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "D"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
@@ -349,24 +367,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPS - 13 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]a história de astronautas que avançam no tempo para um futuro onde os humanos são domesticados e os macacos governam o mundo.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Máquinas Voadoras (1969) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/C2C-DSH-SRS-Maquinas.Voadoras-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/kq4RiiymUGPLkEQklmO7vvZ8Pi4.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/zWCmXuBBEBByN7gu2uI4AIIsCt4.jpg</fanart>
-<info>[COLOR white]Assista aqui o desenho: 
-[B]Máquinas Voadoras
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1969
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 89 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B] Dick Vigarista e sua Esquadrilha Abutre, caçam o pombo-correio Doodle, que leva mensagens secretas na 1ª Guerra.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -601,6 +601,24 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 30 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Manda-Chuva é o líder de uma gangue de Nova York de gatos de rua: Bacana, Espeto, Batatinha, Gênio e Chu-Chu. Sempre em apuros com o Guarda Belo,   
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Máquinas Voadoras (1969) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/C2C-DSH-SRS-Maquinas.Voadoras-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/kq4RiiymUGPLkEQklmO7vvZ8Pi4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zWCmXuBBEBByN7gu2uI4AIIsCt4.jpg</fanart>
+<info>[COLOR white]Assista aqui o desenho: 
+[B]Máquinas Voadoras
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1969
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 89 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B] Dick Vigarista e sua Esquadrilha Abutre, caçam o pombo-correio Doodle, que leva mensagens secretas na 1ª Guerra.
 [/COLOR]</info>
 </channel>
 </channels>
