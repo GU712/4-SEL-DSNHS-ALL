@@ -26,7 +26,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://www.themoviedb.org/t/p/original/9YqDK8rXD9qRVFJ52BA2XricCT8.jpg</fanart>
 <info>[COLOR white]Assista aqui o desenho: 
 [B]A Formiga e o Tamanduá
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA ATUALIZANDO
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]1969
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPS - 17 EPs
@@ -226,16 +226,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]CatDog (1998-2000) - INCOMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]CatDog (1998-2000) - INCOMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/B40-SRS-CatDog-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/icuyGMtxghyfZIRjlALQdOKS58D.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/z1mmqsW5aOWk8a37tMc5xMLVXSR.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
+<info>[COLOR white]Assista aqui o desenho: 
 [B]CatDog
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white] - INCOMPLETA
-[COLOR orange]ANOS - 1998 a 2000
-[COLOR orange]DESENHOS
-[COLOR orange]04 TEMPs - 68 EPs
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1998 a 2000
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 68 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Irmãos siameses, um cão e um gato lidam com os desafios da vida. Cat, o mais inteligente dos dois busca a fama e a fortuna, Dog é feliz correndo atrás de caminhões de lixo.
 [/COLOR]</info>
 </channel>
@@ -244,16 +244,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Caverna do Dragão (1983-1985) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Caverna do Dragão (1983-1985) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/B12-SRS-Caverna.Dragao-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/qLWgJMJdtdCZWZVdQcFsAM5tZ5a.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/9DsK7wq8ZTWd7512NQs7x7YE51l.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
+<info>[COLOR white]Assista aqui o desenho: 
 [B]Caverna do Dragão
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange][B]DESENHOS
-[COLOR orange][B]03 TEMPS - 29 EPs
-[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1983 a 1985
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1983 a 1985
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPS - 29 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Seis crianças embarcam numa montanha russa e acabam parando no Reino de Dungeons and Dragons, a Caverna do Dragão. 
 [/COLOR]</info>
 </channel>
@@ -262,16 +262,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Contos da Cripta - Série Animada (1993-1994) - INCOMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Contos da Cripta - Série Animada (1993-1994) - INCOMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/B30-SRS-Contos.da.Cripta.S.A-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/3gsAFMW4SXMvXPY7Kqcozk7ecNr.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/yJgWU2oEoqpXr9c2A8RplYWIczd.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Contos da Cripta - Série Animada
+<info>[COLOR white]Assista aqui o desenho: 
+[B]Contos da Cripta
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
-[COLOR orange][B]DESENHOS[/B][/COLOR]
-[COLOR orange][B]03 TEMPS - 46 EPs[/B][/COLOR]
-[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1993 a 1994
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1993 a 1994
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]TERROR
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPS - 46 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Versão Animada da aterrorizante série de terror.
 [/COLOR]</info>
 </channel>
@@ -284,17 +284,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]D'Artagnan e os Três Mosqueteiros (1981) - INCOMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]D'Artagnan e os Três Mosqueteiros (1981) - INCOMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/B5-SRS-Dartacao-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/vEQa7aX3rHWbDbBtWfsEJ8Q5ydx.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/b5hB8FyKgMJCVHIX62R8icuJRFZ.jpg</fanart>
-<info>Assista a série D'Artagnan e os Três Mosqueteiros. 
-<info>[COLOR white]Assista aqui a série: 
+<info>[COLOR white]Assista aqui o desenho:  
 [B]D'Artagnan e os Três Mosqueteiros
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
-[COLOR orange]ANOS - 1981 a 1982
-[COLOR orange]ANIMES
-[COLOR orange]02 TEMPS - 52 EPs
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1981 a 1982
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ANIMES
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPS - 52 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Os Três Mosqueteiros de Alexandre Dumas mas com um caráter cômico. Os personagens são representados por animais (na maioria cães).
 [/COLOR]</info>
 </channel>
@@ -303,16 +302,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Defensores da Terra (1986) - INCOMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Defensores da Terra (1986) - INCOMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/B35-SRS-Defensores.da.Terra-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/cuRklKSdUyQOSI9WR2BxAkRylAf.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/p0OhjSxBbJPGe7fbPkWXq5V0yaF.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
+<info>[COLOR white]Assista aqui o desenho: 
 [B]Defensores da Terra
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
-[COLOR orange]ANO - 1986
-[COLOR orange]AVENTURA
-[COLOR orange]01 TEMPs - 65 EPs
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1986
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 65 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Flash Gordon, O Fantasma e Mandrake, o Mágico — se opondo a Ming, o Impiedoso, no ano de 2015.
 [/COLOR]</info>
 </channel>
@@ -321,31 +320,35 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]De Volta ao Planeta dos Macacos (1975) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]De Volta ao Planeta dos Macacos (1975) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/B19-SRS-De.Volta.ao.Planeta.dos.Macacos-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/g8p93ff4aG2liHzta5IW5H0oa5k.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/qBbHuf8lbyHvUd8U7wRYdPSB1C7.jpg</fanart>
-<info>Assista a série De Volta ao Planeta dos Macacos. 
-[COLOR orange][B]DESENHOS[/B][/COLOR]
-[COLOR orange][B]01 TEMPS - 13 EPs[/B][/COLOR]
-[COLOR orange][B]ANO - 1975[/B][/COLOR]</info>
+<info>[COLOR white]Assista aqui o desenho: 
+[B]De Volta ao Planeta dos Macacos
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1975
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPS - 13 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]a história de astronautas que avançam no tempo para um futuro onde os humanos são domesticados e os macacos governam o mundo.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Dick Vigarista e Muttley: Máquinas Voadoras (1969) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Dick Vigarista e Muttley: Máquinas Voadoras (1969) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/B13-SRS-Maquinas.Voadoras-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/kq4RiiymUGPLkEQklmO7vvZ8Pi4.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/zWCmXuBBEBByN7gu2uI4AIIsCt4.jpg</fanart>
 <info>[COLOR white]Assista aqui o desenho: 
-[B]Assista o desenho Dick Vigarista e Muttley: Máquinas Voadoras. 
+[B]Máquinas Voadoras. 
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange][B]COMÉDIA
-[COLOR orange][B]01 TEMP - 89 EPs
-[COLOR orange][B]ANO - 1969
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Dick Vigarista e sua Esquadrilha Abutre, caçando freneticamente o pombo-correio Doodle, que leva mensagens secretas da resistência para os aliados durante a I Guerra Mundial.
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1975
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 89 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]a história de astronautas que avançam no tempo para um futuro onde os humanos são domesticados e os macacos governam o mundo.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -357,12 +360,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/B24-SRS-Duck.Tales-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/wjQfPEkKA0hgV5BxWGCrLS7qHlx.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/v4fOZbR99xRVomfzzmTbQtf2wnh.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]DuckTales: Os Caçadores de Aventuras
+<info>[COLOR white]Assista aqui o desenho: 
+[B]DuckTales
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS - 1987 a 1990
-[COLOR orange]DESENHOS
-[COLOR orange]04 TEMPs - 100 EPs
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1987 a 1990
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 100 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Tio Patinhas, Huguinho, Zezinho e Luizinho se encontram em todos os tipos de aventuras.
 [/COLOR]</info>
 </channel>
@@ -383,12 +386,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/B37-SRS-Faisca.e.Fumasa-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/nhCpgBFYQOAs19vk00SWdz5i9Ze.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/dKpJQxp9LorU1pM16WknfOSNuNe.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]NOMEDASERIE
+<info>[COLOR white]Assista aqui o desenho: 
+[B]Faísca e Fumaça
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
-[COLOR orange]ANO - 1946
-[COLOR orange]COMÉDIA
-[COLOR orange]01 TEMPs - 45 EPs
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1946
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 45 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Dois corvos muito loucos em divertidas trapalhadas.
 [/COLOR]</info>
 </channel>
@@ -397,16 +400,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Frankenstein Jr (1966) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Frankenstein Jr (1966) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/B14-SRS-Frankstein.Jr-ALL</externallink>
 <thumbnail>https://i.pinimg.com/originals/df/9c/35/df9c3512b67cd11a82e0c53bba3bc405.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/9odljRPKOVprOKtfRa9iw3jMG6R.jpg</fanart>
 <info>[COLOR white]Assista aqui o desenho: 
 [B]Frankenstein Jr
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange][B]COMÉDIA
-[COLOR orange][B]01 TEMPS - 18 EPs
-[COLOR orange][B]ANO - 1966
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1966
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPS - 18 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O cientista garoto Bob e seu pai, o Professor Conroy combatiam supervilões com a ajuda de um robô poderoso chamado de Frankenstein Jr.
 [/COLOR]</info>
 </channel>
@@ -419,16 +422,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Galaxy Rangers (1986) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Galaxy Rangers (1986) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/B38-SRS-Galaxy.Rangers-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/wo44yfN8zni0iG9r8vCxfgeEeiA.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/qfUfiI8kLiSvBfQoPB89R6Re5rO.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
 [B]Galaxy Rangers
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANO - 1986
-[COLOR orange]FICÇÃO E FANTASIA
-[COLOR orange]01 TEMPs - 65 EPs
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1986
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 65 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]No ano de 2086, a Liga dos Planetas cria o Bureau de Assuntos Extra-Terrestres , responsável por manter a paz na galáxia
 [/COLOR]</info>
 </channel>
@@ -437,30 +440,34 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Goober e os Caçadores de Fantasmas (1973) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Goober e os Caçadores de Fantasmas (1973) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/B16-SRS-Goober.Ghost.Hunter-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/3mNsBRWkTJjeVF4DaoTj9UACjQ1.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/d40HJaiRo7mx2hLpmlfAWHH4rs.jpg</fanart>
-<info>Assista a série Goober e os Caçadores de Fantasmas. 
-[COLOR orange][B]DESENHOS[/B][/COLOR]
-[COLOR orange][B]01 TEMPS - 16 EPs[/B][/COLOR]
-[COLOR orange][B]ANO - 1973[/B][/COLOR]</info>
+<info>[COLOR white]Assista aqui o desenho: 
+[B]Goober e os Caçadores de Fantasmas
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA ATUALIZANDO
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1973
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPS - 16 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um cachorro, capaz de ficar temporariamente invisível, e seus companheiros humanos investigam mistérios envolvendo o paranormal.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Grump, O Feiticeiro Trapalhão  (1969-1970) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Grump, O Feiticeiro Trapalhão  (1969-1970) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/B6-SRS-Grump.O.Feiticeiro-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/u7c5humlR97taocn5ClW3fxmkNq.jpg</thumbnail>
 <fanart>https://seriesedesenhos.com/media/k2/items/cache/8376aace7af18ea8cafa499d7e69a6ec_M.jpg</fanart>
 <info>[COLOR white]Assista aqui o desenho: 
 [B]Grump, O Feiticeiro Trapalhão
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange][B]COMÉDIA
-[COLOR orange][B]01 TEMPS - 34 EPs
-[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1964 a 1970
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1964 a 1970
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPS - 34 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Quando o Reino de Groovynham é ameaçado por Grump e seu temível dragão, a Princesa Dawn se volta para Terry, um adolescente magricelo vindo de um mundo diferente.
 [/COLOR]</info>
 </channel>
@@ -481,16 +488,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]James Bond Jr. (1991) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]James Bond Jr. (1991) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/A1C1-DSH-James.Bond.Jr-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/cwUnbz31k7K5fV0zximhN2nPM14.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/cfbBpIFPeuhtGkt3rScTJgI9eXQ.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
+<info>[COLOR white]Assista aqui o desenho: 
 [B]James Bond Jr.
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANO - 1991
-[COLOR orange]AVENTURA
-[COLOR orange]01 TEMPs - 65 EPs
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA ATUALIZANDO
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1991
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 65 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]James Bond Jr. com a ajuda de seus amigos I.Q. (supostamente neto de Q) e Gordo Leiter (supostamente filho de Felix Leiter), luta contra a organização terrorista maligna SCUM.
 [/COLOR]</info>
 </channel>
@@ -499,16 +506,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Jornada nas Estrelas: A Serie Animada (1973-1974) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Jornada nas Estrelas: A Serie Animada (1973-1974) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/B20-SRS-Star.Trek.A.Serie.Animada-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/3PHDmFodOd2C9BIGq00DdJzoVou.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/3EnHbhNv6UyVFRenauB465HqHNJ.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
+<info>[COLOR white]Assista aqui o desenho: 
 [B] Jornada nas Estrelas: A Serie Animada
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANO - 1973 a 1974
-[COLOR orange]FICÇÃO E FANTASIA
-[COLOR orange]02 TEMPs - 22 EPs
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1973 a 1974
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 22 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B] Audaciosamente indo, aonde nenhum homem jamais esteve
 [/COLOR]</info>
 </channel>
@@ -517,16 +524,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Jovem Samsão e Golias (1967) - INCOMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Jovem Samsão e Golias (1967) - INCOMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/B20-SRS-Jovem.Sansao-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/1MgWxAndLf4p3CoIIDQRqASY2xg.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/zaIM7lc6vfSaxbK9CnIUvy62pkQ.jpg</fanart>
 <info>[COLOR white]Assista aqui o desenho: 
 [B]Jovem Samsão e Golias
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
-[COLOR orange]ANO - 1967
-[COLOR orange]AVENTURA
-[COLOR orange]01 TEMP - 20 EPs
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]ANO - 1967
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 20 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um jovem e seu cachorro, andando pelo país em sua lambreta. Assim que Sansão unia seus braceletes dourados, se transformava em um super-herói. Seu cachorro Golias virava um enorme leão, 
 [/COLOR]</info>
 </channel>
@@ -543,14 +550,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Liga da Justiça (2001-2003) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Liga da Justiça (2001-2003) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/A1M-DSNHS-LS-KRP/main/C11-SRS-Liga.Justisa.2001-KRP</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/ubwR6cwNEc4YAJGrzdND3qEsify.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/wIuUUEOYPTkSo0h1JJWW4R2FNTq.jpg</fanart>
-<info>Assista a série Liga da Justiça. 
-[COLOR orange][B]DESENHOS[/B][/COLOR]
-[COLOR orange][B]02 TEMPS - 50 EPs[/B][/COLOR]
-[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2001 a 2003[/B][/COLOR]</info>
+<info>[COLOR white]Assista aqui o desenho: 
+[B]Liga da Justiça
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2001 a 2003
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPS - 50 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Os maiores super-heróis do mundo, como Super-Homem, Batman, Mulher-Maravilha, Lanterna Verde, Flash e outros se unem como a Liga da Justiça para enfrentar vilões poderosos, criaturas sobrenaturais e entidades diabólicas.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -561,16 +572,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Manda-Chuva (1961) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Manda-Chuva (1961) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/B1M-DSNHS-LS-MTX/main/C32-SRS-Manda.Chuva-MTX</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/hnWYwPE7nwqAD1OGLEEXyML5LaH.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/82czKnq7CcHaGjNSkxlHLwanE2k.jpg</fanart>
 <info>[COLOR white]Assista aqui o desenho: 
 [B]Manda-Chuva
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANO - 1961
-[COLOR orange]COMÉDIA
-[COLOR orange]01 TEMP - 30 EPs
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1961
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 30 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Manda-Chuva é o líder de uma gangue de Nova York de gatos de rua: Bacana, Espeto, Batatinha, Gênio e Chu-Chu. Sempre em apuros com o Guarda Belo,   
 [/COLOR]</info>
 </channel>
@@ -579,16 +590,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Matraca Trica e Fofoquinha (1964) - INCOMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Matraca Trica e Fofoquinha (1964) - INCOMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/B41-SRS-Matraca.Trica.Fofoquinha-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/ogr8vpE8fnkSp9fw1S21BA9001L.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/cCBVtmveCRfCrdj4s5XB546KfA7.jpg</fanart>
 <info>[COLOR white]Assista aqui o desenho: 
 [B]Matraca Trica e Fofoquinha
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
-[COLOR orange]ANO - 1964
-[COLOR orange]COMÉDIA
-[COLOR orange]01 TEMPs - 23 EPs
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1964
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 23 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Matraca Trica é um urso polar, um artista cômico. Seu amigo, a Fofoquinha é uma foca que vive gripada. Eles vivem em um iglu no Ártico.
 [/COLOR]</info>
 </channel>
@@ -605,16 +616,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]O Inspetor (1965) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Inspetor (1965) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/B18-SRS-O.Inspetor-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/oEAczybCGoqnzJwXEO9wDUUGq5i.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/goZEnwDGe504wDMKcVHHP0ntT71.jpg</fanart>
 <info>[COLOR white]Assista aqui a o desenho: 
 [B]O Inspetor
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANO - 1965
-[COLOR orange]COMÉDIA
-[COLOR orange]01 TEMP - 34 EPs
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1965
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 34 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Matraca Trica é um urso polar, um artista cômico. Seu amigo, a Fofoquinha é uma foca que vive gripada. Eles vivem em um iglu no Ártico.
 [/COLOR]</info>
 </channel>
@@ -623,14 +634,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]O Máskara: A Série Animada (1995-1997)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B1M-DSNHS-LS-MTX/main/C15-SRS-O.Maskara-MTX</externallink>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Máskara: A Série Animada (1995-1997) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/B43-SRS-O.Maskara-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/bOmWfBKD7ommflceQOccCKXjSh0.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/gPeGH1cPFUOcYxO1J8SxJySigOo.jpg</fanart>
-<info>Assista a série O Máskara: A Série Animada. 
-[COLOR orange][B]DESENHOS[/B][/COLOR]
-[COLOR orange][B]03 TEMPS - 54 EPs[/B][/COLOR]
-[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1995 a 1997[/B][/COLOR]</info>
+<info>[COLOR white]Assista aqui o desenho: 
+[B]O Máskara
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1995 a 1997
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPs - 54 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Série animada de televisão baseada nas histórias em quadrinhos do personagem homônimo.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -644,7 +659,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui a o desenho: 
 [B]O Poderoso Mightor
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS - 1967 a 1969
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1967 a 1969
 [COLOR orange]AVENTURA
 [COLOR orange]01 TEMPS - 35 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um desenho em ficção ...num planeta distante e estranha aventuras.
@@ -734,7 +749,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o desenho: 
 [B]Os Jetsons
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS - 1962 a 1987
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1962 a 1987
 [COLOR orange]DESENHOS
 [COLOR orange]03 TEMPs - 75 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O futuro da Humanidade: carros voadores, cidades suspensas, trabalho automatizado, toda sorte de aparelhos eletrodomésticos e de entretenimento, robôs como criados.
@@ -893,7 +908,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
 [COLOR orange]03 TEMPS - 60 EPs
 [COLOR orange]FICÇÃO E FANTASIA
-[COLOR orange]ANOS - 1966 a 1968
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1966 a 1968
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Space Ghost foi ao ar pela primeira vez na CBS de 10 de setembro de 1966 a 7 de setembro de 1968
 [/COLOR]</info>
 </channel>
