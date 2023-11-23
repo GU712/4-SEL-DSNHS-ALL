@@ -356,7 +356,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]DuckTales: Os Caçadores de Aventuras (1987-1990) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]DuckTales: Os Caçadores de Aventuras (1987-1990) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/B24-SRS-Duck.Tales-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/wjQfPEkKA0hgV5BxWGCrLS7qHlx.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/v4fOZbR99xRVomfzzmTbQtf2wnh.jpg</fanart>
@@ -382,7 +382,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Faísca e Fumaça (1946) - INCOMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Faísca e Fumaça (1946) - INCOMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/B37-SRS-Faisca.e.Fumasa-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/nhCpgBFYQOAs19vk00SWdz5i9Ze.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/dKpJQxp9LorU1pM16WknfOSNuNe.jpg</fanart>
@@ -652,16 +652,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]O Poderoso Mightor (1967-1969) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Poderoso Mightor (1967-1969) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/B8-SRS-O.Poderoso.Migthor-ALL</externallink>
 <thumbnail>https://www.acasadocolecionador.com.br/image/cache//catalog/o-poderoso-mightor-1967-6951-900x900.jpg</thumbnail>
 <fanart>https://pbs.twimg.com/media/EfWaXExXoAEBrQ7.png</fanart>
-<info>[COLOR white]Assista aqui a o desenho: 
+<info>[COLOR white]Assista aqui o desenho: 
 [B]O Poderoso Mightor
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1967 a 1969
-[COLOR orange]AVENTURA
-[COLOR orange]01 TEMPS - 35 EPs
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPS - 35 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um desenho em ficção ...num planeta distante e estranha aventuras.
 [/COLOR]</info>
 </channel>
@@ -670,16 +670,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Os Apuros de Penelope Charmosa (1969) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Apuros de Penelope Charmosa (1969) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/B15-SRS-Apuros.Penelope-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/wgEAs9s8i9qY52Ty9JheJOsN3zN.jpg</thumbnail>				
 <fanart>https://www.themoviedb.org/t/p/original/zRZohPYDsD8kCjEemeMOvmDveCD.jpg</fanart>
 <info>[COLOR white]Assista aqui o desenho: 
 [B]Os Apuros de Penelope Charmosa
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange][B]COMÉDIA
-[COLOR orange][B]01 TEMPS - 17 EPs
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]1969
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPS - 17 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Penélope Charmosa é herdeira de uma fortuna e vive sendo perseguida pelo vilão Tião Gavião durante suas aventuras.
 [/COLOR]</info>
 </channel>
@@ -688,16 +688,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Os Flintstones (1960) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Flintstones (1960) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/B23-SRS-Os.Flintstones-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/933AdkIKKz0PcBIYTTaLTLY7wrv.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/wKzND54R6EFtzftU5lCL8gfz6KA.jpg</fanart>
 <info>[COLOR white]Assista aqui o desenho: 
 [B]Os Flintstones
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANO - 1960 a 1965
-[COLOR orange]COMÉDIA
-[COLOR orange]06 TEMPs - 164 EPs
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1960 a 1965
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]06 TEMPs - 164 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Uma família na Idade da Pedra.Usam eletrodomésticos que são uma mistura de tecnologia com artefatos de pedra lascada e dinossauros.
 [/COLOR]</info>
 </channel>
@@ -706,16 +706,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Os Herculóides (1967) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Herculóides (1967) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/B3-SRS-Os.Herculoides-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/fGx7ht0yP9Jn3lNawWIllKXt24.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/fCmdCfl4aKGWhw5s5XBarohihXL.jpg</fanart>
 <info>[COLOR white]Assista aqui o desenho: 
 [B]Os Herculóides
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANO - 1967
-[COLOR orange]AVENTURA
-[COLOR orange]01 TEMPs - 18 EPs
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1967
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 18 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]No planeta Quasar,vive a família Herculóides, os únicos moradores deste lugar perdido no espaço.
 [/COLOR]</info>
 </channel>
@@ -724,16 +724,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Os Impossíveis (1966) - INCOMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Impossíveis (1966) - INCOMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/B17-SRS-Impossiveis-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/9EIve93TcaOaidSYbogaRgmjkyv.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/f78cCf9wSssHmSqzF6LPlXCc32G.jpg</fanart>
 <info>[COLOR white]Assista aqui o desenho: 
 [B]Os Impossíveis
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
-[COLOR orange]ANO - 1966
-[COLOR orange]COMÉDIA
-[COLOR orange]01 TEMPS - 36 EPs
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1966
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPS - 36 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]um clássico dos desenhos animados baseado nos costumes da época, explorava com ironia duas modas da década de 1960, os grupos de rock e os super-heróis. 
 [/COLOR]</info>
 </channel>
@@ -742,7 +742,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Os Jetsons (1962) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Jetsons (1962) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/B31-SRS-Os.Jetsons-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/4jpNQBhVcUfSS7MkrEwaNjZlHJj.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/q9CC98q1QtBs0fW609QJK3va9Su.jpg</fanart>
@@ -750,8 +750,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [B]Os Jetsons
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1962 a 1987
-[COLOR orange]DESENHOS
-[COLOR orange]03 TEMPs - 75 EPs
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPs - 75 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O futuro da Humanidade: carros voadores, cidades suspensas, trabalho automatizado, toda sorte de aparelhos eletrodomésticos e de entretenimento, robôs como criados.
 [/COLOR]</info>
 </channel>
@@ -764,16 +764,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 			
 <channels>
 <channel>
-<name>[COLOR white][B]Papa-Léguas (1949-2014) - INCOMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Papa-Léguas (1949-2014) - INCOMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/B32-SRS-Papa.Leguas-ALL</externallink>
 <thumbnail>https://i.ibb.co/37k899N/SRS-PAPALEGUAS-ICON-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/LNK0wxX/SRS-PAPALEGUAS-FAN-ALL.png</fanart>
-<info>[COLOR white]Assista aqui a série: 
+<info>[COLOR white]Assista aqui o desenho: 
 [B]Papa-Léguas
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
-[COLOR orange]ANO - 1949 a 2014
-[COLOR orange]DESENHOS
-[COLOR orange]01 TEMP - 49 EPs
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1949 a 2014
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 49 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O faminto Coyote sempre tenta capturar o veloz Papa-Léguas, encomendando produtos ACME, uma empresa fictícia que fabrica de tudo.
 [/COLOR]</info>
 </channel>
@@ -782,16 +782,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Pingu (1986-2005) - ATUALIZANDO[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Pingu (1986-2005) - ATUALIZANDO[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/B33-SRS-Pingu-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/nLE7NR3EsEbv2NfG0bLIaOEhGfY.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/lZAIAYMmUMDkUvvggxO9SS00PJX.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
+<info>[COLOR white]Assista aqui o desenho: 
 [B]Pingu
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]ANO - 1986 a 2005
-[COLOR orange]COMÉDIA
-[COLOR orange]06 TEMPs - 158 EPs
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1986 a 2005
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]06 TEMPs - 158 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A história de um pinguim que vive no Pólo Sul com seu pai, que trabalha como carteiro, sua mãe e sua pequena irmã, Pingá.
 [/COLOR]</info>
 </channel>
@@ -800,16 +800,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Pinky e o Cérebro (1995-1998) - ATUALIZANDO[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Pinky e o Cérebro (1995-1998) - ATUALIZANDO[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/B29-Pinky.Cerebro-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/ywO3QKU8IIOyWtVeA88rWlTyuT6.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/aFQrKZKO8NsZGhwkwJrV6fPvDRs.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
+<info>[COLOR white]Assista aqui o desenho: 
 [B]Pinky e o Cérebro
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]ANO - 1995 a 1998
-[COLOR orange]COMÉDIA
-[COLOR orange]04 TEMPs - 95 EPs
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1995 a 1998
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 95 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Cérebro é baixinho e mau-humorado ,Pinky é alto e magricela, infantil e abobalhado que sempre atrapalha os planos do Cérebro para alcançar o seu maior objetivo: conquistar o mundo.
 [/COLOR]</info>
 </channel>
@@ -822,16 +822,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <channels>
 <channel>
-<name>[COLOR white][B]Quarteto Fantástico (1967) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Quarteto Fantástico (1967) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/B25-SRS-Quarteto.Fantastico-ALL</externallink>
 <thumbnail>https://infantv.com.br/infantv/wp-content/uploads/2017/10/4fantastico_logo.jpg</thumbnail>
 <fanart>https://infantv.com.br/infantv/wp-content/uploads/2017/10/4fantastico.jpg</fanart>
 <info>[COLOR white]Assista aqui o desenho: 
 [B]Quarteto Fantástico
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANO - 1967
-[COLOR orange]DESENHOS
-[COLOR orange]01 TEMPs - 20 EPs
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1967
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 20 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Quatro astronautas atingidos por uma chuva cósmica radioativa, fazendo com que todos adquirissem capacidades especiais.
 [/COLOR]</info>
 </channel>
@@ -845,29 +845,33 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Rambo - A Força da Liberdade (1986) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B1M-DSNHS-LS-MTX/main/C3-SRS-Rambo.Desenhos-MTX</externallink>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Rambo: A Força da Liberdade (1986) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/B44-SRS-Rambo.Desenhos-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/q2Z3aJjuGqp4xgsjcjeKXOoCYXb.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/2kRVyT0mhGn5jDHcq1Os3UlXlY5.jpg</fanart>
-<info>Assista a série Rambo - A Força da Liberdade. 
-[COLOR orange][B]DESENHOS[/B][/COLOR]
-[COLOR orange][B]01 TEMP - 65 EPs[/B][/COLOR]
-[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1986B][/COLOR]</info>
+<info>[COLOR white]Assista aqui o desenho: 
+[B]Rambo
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1986
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 65 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O heróico e incorruptível soldado Rambo lidera um grupo de bem-feitores chamado A força da liberdade, que luta incansavelmente para frustrar os planos do grupo terrorista S.A.V.A.G.E., liderado pelo cruel General Warhawk.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Recruta Zero (1962) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Recruta Zero (1962) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/B13-SRS-Recruta.Zero-ALL</externallink>
 <thumbnail>https://i.ibb.co/tpw0fwW/SRS-RECRUTAZEROA-ICON-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/ydD1tL4/SRS-RECRUTAZEROA-FAN-ALL.png</fanart>
 <info>[COLOR white]Assista aqui o desenho: 
 [B]Recruta Zero
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANO - 1962
-[COLOR orange]COMÉDIA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1962
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
 [COLOR orange]01 TEMPs - 90 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O quartel não será o mesmo abrigando esses militares meio pirados.
 [/COLOR]</info>
@@ -881,14 +885,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Shazzan, O Gênio (1967) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Shazzan, O Gênio (1967) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/B10-SRS-Shazzan-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/wOXlpZs419XqJM5UNyhs4Z8NGJ.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/wOUTstdb7fKireyJy1AGKiqhFM2.jpg</fanart>
 <info>[COLOR white]Assista aqui o desenho: 
 [B]Shazzan, O Gênio
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANO - 1967
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1967
 [COLOR orange]AVENTURA
 [COLOR orange]01 TEMP - 36 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]No Brasil a série fez um grande sucesso e foi exibido pela Rede Globo no ano de 1968, e por algumas outras emissoras e ficou conhecido com o título de Shazam, o Gênio.
@@ -899,7 +903,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Space Ghost (1966) - INCOMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Space Ghost (1966) - INCOMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/B9-SRS-Space.Ghost-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/hD2ciSqTHxnvF0MQbJdMBmi6XM4.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/1UpqxBznJWB2yq3QIJkNALiCr4t.jpg</fanart>
@@ -917,14 +921,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Speed Racer (1967) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Speed Racer (1967) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/B34-SRS-Speed.Racer-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/7o9x0cdLjNXLeKfPM7p8h7DBL9B.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/klb4Jfyh3fZag2NShul0rNtNkQ4.jpg</fanart>
 <info>[COLOR white]Assista aqui o desenho: 
 [B]Speed Racer
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANO - 1967
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1967
 [COLOR orange]ANIMES
 [COLOR orange]01 TEMP - 52 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B] Speed Racer, um jovem e audaz piloto de corrida de 18 anos, dirige o carro Mach 5, criado por seu pai e vive diversas aventuras dentro e fora das corridas. 
@@ -935,14 +939,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Star Trek : A Serie Animada (1973) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Star Trek : A Serie Animada (1973) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESP-ALL/main/2C3-DSH-Star.Trek.A.Serie.Animada-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/3PHDmFodOd2C9BIGq00DdJzoVou.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/3EnHbhNv6UyVFRenauB465HqHNJ.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
+<info>[COLOR white]Assista aqui o desenho: 
 [B] Jornada nas Estrelas: A Serie Animada
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANO - 1973 a 1974
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1973 a 1974
 [COLOR orange]FICÇÃO E FANTASIA
 [COLOR orange]02 TEMPs - 22 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Audaciosamente indo, aonde nenhum homem jamais esteve
@@ -953,11 +957,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Star trek : Subalternos (2020) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Star trek : Subalternos (2020) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESP-ALL/main/2C1-DSH-Lower.Deck-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/dXjotR7OIQUMANdq2zuVToDAE2v.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/6JkphPzyMpBRVJrMELsh3UMQ7gf.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
+<info>[COLOR white]Assista aqui o desenho: 
 [B]Star trek : Subalternos
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]ANOs - 2020 a 2022
@@ -971,14 +975,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Star Trek : Prodigy (2021) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Star Trek : Prodigy (2021) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESP-ALL/main/2C2-DSH-Prodigy-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/cUrvWWsMA0RheFw3DGVZWudqu4S.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/yMNbJeHCcuz9ZBFZCfdLLgnE8pI.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
+<info>[COLOR white]Assista aqui o desenho: 
 [B]Star Trek : Prodigy
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANO - 2021
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2021
 [COLOR orange]FICÇÃO E FANTASIA
 [COLOR orange]01 TEMP - 19 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Uma tripulação heterogênea de jovens alienígenas rebeldes comanda uma velha nave da Frota Estelar e deve descobrir como trabalhar juntos enquanto navegam por uma grande galáxia.
@@ -989,14 +993,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Super Heróis DC - Aventuras Lendárias (1967) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Super Heróis DC - Aventuras Lendárias (1967) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/B1M-DSNHS-LS-MTX/main/C6-SRS-DC-Av.Lend.1967-MTX</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/20bkzPuT31GED1K0qDBU43vgQtc.jpg</thumbnail>
 <fanart>https://13thdimension.com/wp-content/uploads/2020/01/Screen-Shot-2019-08-18-at-1.00.19-PM.png</fanart>
 <info>[COLOR white]Assista aqui o desenho: 
 [B]Super Heróis DC - Aventuras Lendárias
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANO - 1967
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1967
 [COLOR orange]SUPER-HERÓIS
 [COLOR orange]01 TEMP - 18 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Os Maiores Heróis e suas incríveis aventuras.
@@ -1007,7 +1011,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Superman: A Série Animada (1996-1997) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Superman: A Série Animada (1996-1997) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/B1M-DSNHS-LS-MTX/main/C12-SRS-Superman.Sr.Animada.1996-MTX</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/aB9upeEo6MEvGC0KIMHHAmE4Vir.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/cgMbDcONuzcciEKLJP3L1mtaOb4.jpg</fanart>
@@ -1025,15 +1029,15 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 			
 <channels>
 <channel>
-<name>[COLOR white][B]Timão e Pumba (1995-1999) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Timão e Pumba (1995-1999) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/B7-SRS-Timao.Pumba-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/w220_and_h330_face/7SeT1SqFWPquGd36rF29TqF6lAG.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/jhYHS82bDnYw3Ol25nu8bKMlDED.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
+<info>[COLOR white]Assista aqui o desenho: 
 [B]Timão e Pumba
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANO - 1995 a 1999
-[COLOR orange]COMÉDIA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1995 a 1999
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
 [COLOR orange]03 TEMPs - 86 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Timão, um suricato, e Pumba, um javali,vivem desventuras na selva e em diferentes países, como Canadá, Grã-Bretanha, Estados Unidos e Espanha.
 [/COLOR]</info>
@@ -1047,15 +1051,15 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <channels>
 <channel>
-<name>[COLOR white][B]Ursinhos Carinhos (1985-1986) - INCOMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Ursinhos Carinhos (1985-1986) - INCOMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/B36-SRS-Ursinhos.Carinhos-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/ctrydGnRE3ZOk1ok5tSDbRSB8Ln.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/lyw9kEctO7msqLbe8DgxEbo6OYp.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
+<info>[COLOR white]Assista aqui o desenho: 
 [B]Ursinhos Carinhos
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
-[COLOR orange]ANO - 1985 a 1986
-[COLOR orange]DESENHOS
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1985 a 1986
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
 [COLOR orange]04 TEMPs - 98 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Ursinhos coloridos compartilham altruísmo e gentileza com o mundo.
 [/COLOR]</info>
@@ -1073,7 +1077,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]X-Men: Evolution (2000-2003) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]X-Men: Evolution (2000-2003) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/B6-ESPC-LS-MTX/main/I2A-SRS-X-Men.Evolution-MTX</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/genMX6Ti7xh4i7xfFZQUGAtpY8z.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/ypjekzMRMvdrx4PRA7v1DNyCmTR.jpg</fanart>
@@ -1087,7 +1091,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Wolverine e os X-Men (2009) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Wolverine e os X-Men (2009) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/B6-ESPC-LS-MTX/main/I2B-SRS-Wolverine.X-Men-MTX</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/zTADaqgnIhE9QZAnX6M9YVn5wsv.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/uPbpYFYXlUdTDEmfoubKNfdEZZx.jpg</fanart>
@@ -1113,15 +1117,15 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Zé Buscapé (1965) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Zé Buscapé (1965) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/B4-SRS-Ze.Buscape-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/keBN6yighXY2Q7PLgIB4tr94idB.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/vlu8quIbImtXvR4x6TMFz20mFZk.jpg</fanart>
 <info>[COLOR white]Assista aqui o desenho: 
 [B]Zé Buscapé
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANO - 1965
-[COLOR orange]COMÉDIA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1965
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
 [COLOR orange]01 TEMP - 26 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Ursos Caipiras pra lá de piradosem hilariantes confusões.
 [/COLOR]</info>
@@ -1153,7 +1157,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE DESENHOS[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]VOLTAR AO MENU DE DESENHOS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/1-SEL-DSNHS-ALL</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
@@ -1164,7 +1168,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE GÊNEROS[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]VOLTAR AO MENU DE GÊNEROS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/2A-SEL-GEN-FLM-LS-ALL</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
@@ -1175,7 +1179,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE SÉRIES LS[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]VOLTAR AO MENU DE SÉRIES LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3A-SEL-SRS-LS-ALL</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
@@ -1186,7 +1190,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE SÉRIES[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]VOLTAR AO MENU DE SÉRIES[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3-SEL-SRS-ALL</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
@@ -1197,7 +1201,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE FILMES[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]VOLTAR AO MENU DE FILMES[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/2-SEL-FLMS-ALL</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
@@ -1208,7 +1212,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]VOLTAR AO MENU GERAL[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]VOLTAR AO MENU GERAL[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/1-CATEGORIAS-ALL</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
