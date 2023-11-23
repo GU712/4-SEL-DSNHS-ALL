@@ -852,7 +852,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o desenho: 
 [B]Rambo
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1986
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1986
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 65 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O heróico e incorruptível soldado Rambo lidera um grupo de bem-feitores chamado A força da liberdade, que luta incansavelmente para frustrar os planos do grupo terrorista S.A.V.A.G.E., liderado pelo cruel General Warhawk.
@@ -870,9 +870,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o desenho: 
 [B]Recruta Zero
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1962
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1962
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]01 TEMPs - 90 EPs
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 90 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O quartel não será o mesmo abrigando esses militares meio pirados.
 [/COLOR]</info>
 </channel>
@@ -892,9 +892,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o desenho: 
 [B]Shazzan, O Gênio
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1967
-[COLOR orange]AVENTURA
-[COLOR orange]01 TEMP - 36 EPs
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1967
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 36 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]No Brasil a série fez um grande sucesso e foi exibido pela Rede Globo no ano de 1968, e por algumas outras emissoras e ficou conhecido com o título de Shazam, o Gênio.
 [/COLOR]</info>
 </channel>
@@ -910,9 +910,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o desenho: 
 [B]Space Ghost
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
-[COLOR orange]03 TEMPS - 60 EPs
-[COLOR orange]FICÇÃO E FANTASIA
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1966 a 1968
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPS - 60 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Space Ghost foi ao ar pela primeira vez na CBS de 10 de setembro de 1966 a 7 de setembro de 1968
 [/COLOR]</info>
 </channel>
@@ -928,9 +928,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui o desenho: 
 [B]Speed Racer
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1967
-[COLOR orange]ANIMES
-[COLOR orange]01 TEMP - 52 EPs
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1967
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ANIMES
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 52 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B] Speed Racer, um jovem e audaz piloto de corrida de 18 anos, dirige o carro Mach 5, criado por seu pai e vive diversas aventuras dentro e fora das corridas. 
 [/COLOR]</info>
 </channel>
@@ -947,8 +947,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [B] Jornada nas Estrelas: A Serie Animada
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1973 a 1974
-[COLOR orange]FICÇÃO E FANTASIA
-[COLOR orange]02 TEMPs - 22 EPs
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 22 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Audaciosamente indo, aonde nenhum homem jamais esteve
 [/COLOR]</info>
 </channel>
@@ -962,11 +962,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>https://www.themoviedb.org/t/p/original/dXjotR7OIQUMANdq2zuVToDAE2v.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/6JkphPzyMpBRVJrMELsh3UMQ7gf.jpg</fanart>
 <info>[COLOR white]Assista aqui o desenho: 
-[B]Star trek : Subalternos
+[B]Subalternos
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOs - 2020 a 2022
-[COLOR orange]FICÇÃO E FANTASIA
-[COLOR orange]03 TEMPs - 30 EPs
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2020 a 2022
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPs - 30 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]As vidas da tripulação de apoio servindo em um dos navios menos importantes da Frota Estelar, os EUA Cerritos, em 2380.
 [/COLOR]</info>
 </channel>
@@ -980,11 +980,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>https://www.themoviedb.org/t/p/original/cUrvWWsMA0RheFw3DGVZWudqu4S.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/yMNbJeHCcuz9ZBFZCfdLLgnE8pI.jpg</fanart>
 <info>[COLOR white]Assista aqui o desenho: 
-[B]Star Trek : Prodigy
+[B]Prodigy
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2021
-[COLOR orange]FICÇÃO E FANTASIA
-[COLOR orange]01 TEMP - 19 EPs
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2021
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 19 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Uma tripulação heterogênea de jovens alienígenas rebeldes comanda uma velha nave da Frota Estelar e deve descobrir como trabalhar juntos enquanto navegam por uma grande galáxia.
 [/COLOR]</info>
 </channel>
@@ -993,17 +993,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Super Heróis DC - Aventuras Lendárias (1967) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B1M-DSNHS-LS-MTX/main/C6-SRS-DC-Av.Lend.1967-MTX</externallink>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]DC Super Heroes: The Filmation Adventures (1967) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/B45-SRS-Av.Lend.1967-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/20bkzPuT31GED1K0qDBU43vgQtc.jpg</thumbnail>
-<fanart>https://13thdimension.com/wp-content/uploads/2020/01/Screen-Shot-2019-08-18-at-1.00.19-PM.png</fanart>
+<fanart>https://www.themoviedb.org/t/p/original/1T9Mw61RkNBdLnOfCDoqZVisgYX.jpg</fanart>
 <info>[COLOR white]Assista aqui o desenho: 
-[B]Super Heróis DC - Aventuras Lendárias
+[B]DC Super Heroes
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1967
-[COLOR orange]SUPER-HERÓIS
-[COLOR orange]01 TEMP - 18 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Os Maiores Heróis e suas incríveis aventuras.
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1967
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 18 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Série de desenhos rara de 1967 com aventuras separadas dos super-herós DC.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -1011,14 +1011,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Superman: A Série Animada (1996-1997) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B1M-DSNHS-LS-MTX/main/C12-SRS-Superman.Sr.Animada.1996-MTX</externallink>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Superman: A Série Animada (1996-1998) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/B1C2-DSH-Superman.S.Anim.1996-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/aB9upeEo6MEvGC0KIMHHAmE4Vir.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/cgMbDcONuzcciEKLJP3L1mtaOb4.jpg</fanart>
-<info>Assista a série Superman: A Série Animada. 
-[COLOR orange][B]DESENHOS[/B][/COLOR]
-[COLOR orange][B]03 TEMPS - 54 EPs[/B][/COLOR]
-[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1996 a 1997[/B][/COLOR]</info>
+<info>[COLOR white]Assista aqui o desenho: 
+[B]A Série Animada
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1996 a 1998
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPs - 54 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A Trajetória do Homem de Aço desde sua infancia até as principais aventuras em desenho animado.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
