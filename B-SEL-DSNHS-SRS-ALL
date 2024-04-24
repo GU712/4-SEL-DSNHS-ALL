@@ -226,6 +226,24 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Capitão América (1966) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/D5C1-DSH-Cap.America.1966-ALL</externallink>
+<thumbnail>https://i.imgur.com/lR29MI0.jpg</thumbnail>
+<fanart>https://i.imgur.com/WN8jJcO.jpg</fanart>
+<info>[COLOR white]Assista aqui o desenho: 
+[B]Capitão América
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1966
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓI
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 13 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A primeira versão em desenho animado do Super-herói produzida em 1966 já coloridos.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]CatDog (1998-2000) - INCOMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/B40-SRS-CatDog-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/icuyGMtxghyfZIRjlALQdOKS58D.jpg</thumbnail>
@@ -462,17 +480,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Homem de Ferro (Desenhos)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/D1C-DSH-Iron.Man-ALL</externallink>
-<thumbnail>https://i.ibb.co/Dbj6GdM/COL-H-FERRO-ICON-DSH-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/SQCj1vR/COL-H-FERRO-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça a seção de desenhos: 
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Homem de Ferro (1966) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/D1C4-DSH-Homem.de.Ferro.1966-ALL</externallink>
+<thumbnail>https://i.imgur.com/jylZSre.jpg</thumbnail>
+<fanart>https://i.imgur.com/FuhG8ax.jpg</fanart>
+<info>[COLOR white]Assista aqui o desenho: 
 [B]Homem de Ferro
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
-Peça ao SUPORTE AO USUÁRIO
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1966
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓI
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 13 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A primeira versão em desenho animado do Super-herói produzida em 1966 já coloridos.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -975,25 +993,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "T"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Tarzan (Desenhos)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/main/D4C-DSH-Tarzan-ALL</externallink>
-<thumbnail>https://i.ibb.co/ZhpBNHd/COL-TARZAN-ICON-DSH-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/vc0CNgj/ESP-TARZAN-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça a seção de desenhos: 
-[B]Tarzan
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
-Peça ao SUPORTE AO USUÁRIO
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
+			
 <channels>
 <channel>
 <name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Timão e Pumba (1995-1999) - COMPLETA[/B][/COLOR]</name>
