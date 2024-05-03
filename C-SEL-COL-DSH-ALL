@@ -226,17 +226,35 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Superman (Desenhos)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/B1C-SEL-DSH-SUPERMAN-ALL</externallink>
-<thumbnail>https://i.ibb.co/pW5Kdbg/ESP-SUPERMAN-ICON-DSH-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/mNpSc9P/ESP-SUPERMAN-FAN-ALL.png</fanart>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Scooby-Doo (Desenhos)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2G-LS-ANM-ALL/main/D3C-DSH-Scooby.Doo-ALL</externallink>
+<thumbnail>https://i.ibb.co/tsPWhVm/COL-SCOOBY-DSH-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/X7X5qJL/COL-SCOOBY-FAN-ALL.png</fanart>
+<info>[COLOR white]Conheça a seção de desenhos: 
+[B]Scooby-Doo
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ANIMAÇÃO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+Não encontrou o que queria ? 
+Peça ao SUPORTE AO USUÁRIO
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Superman (Desenhos)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/D6C-DSH-Superman-ALL</externallink>
+<thumbnail>https://i.ibb.co/BwwtZ8T/COL-SUPERMAN-ICON-DSH-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/8d0cp5w/COL-SUPERMAN-FAN-ALL.png</fanart>
 <info>[COLOR white]Conheça a seção de desenhos: 
 [B]Superman
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você pode assistir os desenhos que temos sobre Superman.
-Não encontrou o que queria ?
-Solicite ao SUPORTE AO USUÁRIO .
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+Não encontrou o que queria ? 
+Peça ao SUPORTE AO USUÁRIO
 [/COLOR]</info>
 </channel>
 </channels>
