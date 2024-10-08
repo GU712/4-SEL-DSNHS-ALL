@@ -280,6 +280,24 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Castlevania (2017-2021) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/refs/heads/main/D01C1-DSH-Castlevania.2017-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/ubDtIBwdS9b29sBofAkqWz3PqkT.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/zSV78u29RB5PAOfwE8liVJcxKc1.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Castlevania
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2017 a 2021
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ANIMAÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 32 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um caçador de vampiros luta para salvar uma cidade sitiada por um exército de criaturas controladas pelo próprio Drácula. Inspirado no clássico videogame.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]CatDog (1998-2000) - INCOMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/B40-SRS-CatDog-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/icuyGMtxghyfZIRjlALQdOKS58D.jpg</thumbnail>
@@ -607,7 +625,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Hotel Transylvania: A Série (2017-2019) - ATUALIZANDO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/C4C1-DSH-Hotel.Transylvania-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/refs/heads/main/D01C2-DSH-Hotel.Transylvania.2017-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/aZs46FyTwM4phRC9meC4faW7MoS.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/okeMnGnuvD81HeVFNFQVlADc6IK.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
