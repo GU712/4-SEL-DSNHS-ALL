@@ -830,7 +830,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]Karatê Kid: A Série Animada (1989) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/D03C-DSH-Karate-Kid-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/D03C1-DSH-Karate-Kid.Serie.Animada.1989-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/x3x3jcyPBrrzdtY7wM8GBcbQGd8.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/423mfQPZCRCYCvylWXlcuKYjCjl.jpg</fanart>
 <info>[COLOR white]Assista aqui o desenho: 
@@ -839,11 +839,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1989
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 13 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Daniel e seu mentor, o Sr. Miyagi, viajam pelo mundo com seu amigo de Okinawa, 
-Taki Tamurai, em busca de um antigo talismã japonês roubado de uma antiga vila de pescadores.
-[COLOR black].[/COLOR]
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Daniel e seu mentor, o Sr. Miyagi, viajam pelo mundo com seu amigo de Okinawa, Taki Tamurai,
+ em busca de um antigo talismã japonês roubado de uma vila de pescadores.
+[/B][COLOR black].[/COLOR]
 Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -869,6 +870,25 @@ Lanterna Verde, Flash e outros se unem como a Liga da Justiça para enfrentar vi
 [COLOR black].[/COLOR]
 Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Lone Ranger (Desenhos)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/D03C-DSH-Lone.Ranger-ALL</externallink>
+<thumbnail>https://i.ibb.co/kDwrjm2/ESP-LONERANGER-ICO-DSH.png</thumbnail>
+<fanart>https://i.ibb.co/s1Qnpdb/ESP-LONERANGER-FAN.png</fanart>
+<info>[COLOR white]Conheça a seção de desenhos: 
+[B]Lone Ranger
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
