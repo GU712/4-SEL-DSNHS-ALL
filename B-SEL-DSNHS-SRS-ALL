@@ -189,8 +189,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]ALF: A Serie Animada (1987-1988) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS4[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/D3C-DSH-ALF.o.ET.eimoso-ALL</externallink>
+<name>[COLOR white][B]ALF: A Serie Animada (1987-1988) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/refs/heads/main/D07C-DSH-ALF.o.ET.eimoso-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/l6yzVC5wVdGI1ucIBkRwadImcqb.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/uKAiYmNqz07NtIYuYsGu6QVldv7.jpg</fanart>
 <info>[COLOR white]Assista aqui o desenho: 
@@ -199,11 +199,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1987 a 1988
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 26 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Gordon Shumway, aquela simpática criaturinha que acabou na garagem da família Tanner, 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Gordon Shumway, aquela simpática criaturinha que acabou na garagem da família Tanner, 
 na verdade percorreu uma longa jornada até chegar ao planeta Terra.
-[COLOR black].[/COLOR]
+[/B][COLOR black].[/COLOR]
 Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
