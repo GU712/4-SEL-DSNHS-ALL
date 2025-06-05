@@ -22,13 +22,13 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "B"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-				
+
 <channels>
 <channel>
 <name>[COLOR white][B]Batman (Desenhos)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/D08C-DSH-Batman-ALL</externallink>
-<thumbnail>https://i.ibb.co/fC7TyBB/ESP-BATMAN-DSH.png</thumbnail>
-<fanart>https://i.ibb.co/Ksy7SFf/ESP-BATMAN-FAN.png</fanart>
+<thumbnail>https://i.ibb.co/c3ZnBPg/ESP-BATMAN-DSH.png</thumbnail>
+<fanart>https://i.ibb.co/j5N3YKB/ESP-BATMAN-FAN.png</fanart>
 <info>[COLOR white]Conheça a seção de desenhos: 
 [B]Batman
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
@@ -67,12 +67,13 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Curtas da Disney[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<name>[COLOR white][B]CURTAS DA DISNEY[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/A-FLMS-DSNHS-ALL</externallink>
 <thumbnail>https://i.ibb.co/M85T9XH/COL-OLD-DISNEY-ICO.png</thumbnail>
 <fanart>https://i.ibb.co/JpdLbXY/COL-OLD-DISNEY-FAN.png</fanart>
 <info>[COLOR white]Conheça a seção: 
-[B]Curtas da Disney
+[B]SERVER LS
+CURTAS DA DISNEY
 [COLOR black].[/COLOR]
 [COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Desenhos no SERVER LS. Conteúdo em servidor contratado.Clique no item escolhido, e aguarde 40s que o link abre.
 [COLOR black].[/COLOR]
@@ -124,16 +125,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]He-Man (Desenhos)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2G-LS-ANM-ALL/main/D5C-DSH-He-Man-ALL</externallink>
-<thumbnail>https://i.ibb.co/82wWSMR/COL-HE-MAN-ICON-DSH-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/q7FsRk0/COL-HE-MAN-FAN-ALL.png</fanart>
+<name>[COLOR white][B]He-Man (Desenhos)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2G-LS-ANM-ALL/main/D05C-DSH-He-Man-ALL</externallink>
+<thumbnail>https://i.ibb.co/7GJfKC7/ESP-HE-MAN-DSH.png</thumbnail>
+<fanart>https://i.ibb.co/q1mPGkW/ESP-HE-MAN-FAN.png</fanart>
 <info>[COLOR white]Conheça a seção de desenhos: 
 [B]He-Man
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ANIMAÇÃO
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
@@ -144,8 +146,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]Homem-Aranha (Desenhos)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/D07C-DSH-Homem-Aranha-ALL</externallink>
-<thumbnail>https://i.ibb.co/ZYcrPQX/ESP-H-ARANHA-DSH.png</thumbnail>
-<fanart>https://i.ibb.co/9hpD23k/ESP-H-ARANHA-FAN.png</fanart>
+<thumbnail>https://i.ibb.co/0ZBfpRq/ESP-H-ARANHA-DSH.png</thumbnail>
+<fanart>https://i.ibb.co/RjjnLyt/ESP-H-ARANHA-FAN.png</fanart>
 <info>[COLOR white]Conheça a seção de desenhos: 
 [B]Homem-Aranha
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
@@ -161,16 +163,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Homem de Ferro (Desenhos)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/D1C-DSH-Iron.Man-ALL</externallink>
-<thumbnail>https://i.ibb.co/Dbj6GdM/COL-H-FERRO-ICON-DSH-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/SQCj1vR/COL-H-FERRO-FAN-ALL.png</fanart>
+<name>[COLOR white][B]Homem de Ferro (Desenhos)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/D11C-DSH-Iron.Man-ALL</externallink>
+<thumbnail>https://i.ibb.co/HBq6bv5/ESP-H-FERRO-DSH.png</thumbnail>
+<fanart>https://i.ibb.co/9HZWXKR/ESP-H-FERRO-FAN.png</fanart>
 <info>[COLOR white]Conheça a seção de desenhos: 
 [B]Homem de Ferro
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
@@ -179,16 +182,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Hulk (Desenhos)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/D4C-DSH-Hulk-ALL</externallink>
-<thumbnail>https://i.ibb.co/WgJ7mvZ/COL-HULK-ICON-DSH-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/y5WCXZf/COL-HULK-FAN-ALL.png</fanart>
+<name>[COLOR white][B]Hulk (Desenhos)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/D10C-DSH-Hulk-ALL</externallink>
+<thumbnail>https://i.ibb.co/fncFBBG/ESP-HULK-DSH.png</thumbnail>
+<fanart>https://i.ibb.co/GVmj6pp/ESP-HULK-FAN.png</fanart>
 <info>[COLOR white]Conheça a seção de desenhos: 
 [B]Hulk
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
@@ -316,8 +320,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]Superman (Desenhos)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/D06C-DSH-Superman-ALL</externallink>
-<thumbnail>https://i.ibb.co/wcMv4s0/ESP-SUPERMAN-DSH.png</thumbnail>
-<fanart>https://i.ibb.co/XDmgy4d/ESP-SUPERMAN-FAN.png</fanart>
+<thumbnail>https://i.ibb.co/hfVPt4c/ESP-SUPERMAN-DSH.png</thumbnail>
+<fanart>https://i.ibb.co/YLXLwcJ/ESP-SUPERMAN-FAN.png</fanart>
 <info>[COLOR white]Conheça a seção de desenhos: 
 [B]Superman
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
@@ -337,16 +341,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]The Marvel Super Heroes (1966) - (Desenhos)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/D6-COL-Marvel.S.H.1966-ALL</externallink>
-<thumbnail>https://i.ibb.co/Krzkhfy/COL-SH-1966-ICON-ALL-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/7Sst8Qn/COL-SH-1966-FAN-ALL-ALL.png</fanart>
-<info>[COLOR white]Conheça a coleção: 
+<name>[COLOR white][B]The Marvel Super Heroes (1966) - (Desenhos)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/D14-SEL-Marvel.S.H.1966-ALL</externallink>
+<thumbnail>https://i.ibb.co/BKLm1Gf/ESP-SH-1966-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/zhsz8Cf/ESP-SH-1966-FAN.png</fanart>
+<info>[COLOR white]Conheça o especial: 
 [B]The Marvel Super Heroes
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
