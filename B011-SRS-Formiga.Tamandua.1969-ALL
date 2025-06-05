@@ -1,119 +1,209 @@
 <item>	
 <title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
 <link>NOLINK</link>	
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>	
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+<thumbnail>https://i.ibb.co/prWKqx19/SEL-ITEM-DSH-ICO.png</thumbnail>				
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>		
+<info>FAÇA SUA ESCOLHA 
+E DIVIRTA-SE </info>		
 </item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>	
+<title>[COLOR orange][B]A Formiga e o Tamanduá[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://www.themoviedb.org/t/p/original/1EMQZD2BZHyvejG0ShE1EgThvPx.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9YqDK8rXD9qRVFJ52BA2XricCT8.jpg</fanart>
+<info>[COLOR white]Assista aqui o desenho: 
+[B]A Formiga e o Tamanduá
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1969
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPS - 17 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]As grandes encrencas em que se mete um tamanduá azul para lanchar sua formiga.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>	
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]TEMP 01 (1969) 17 EPs - FHD DUB[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://www.themoviedb.org/t/p/original/1EMQZD2BZHyvejG0ShE1EgThvPx.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/01.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/9YqDK8rXD9qRVFJ52BA2XricCT8.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]A Formiga e o Tamanduá[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/DSNHS/Formiga.Tamandua/LS-T01E01.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/1EMQZD2BZHyvejG0ShE1EgThvPx.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9YqDK8rXD9qRVFJ52BA2XricCT8.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]A Formiga e o Tamanduá[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/DSNHS/1969.Formiga.Tamandua/LS-T01E01.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9YqDK8rXD9qRVFJ52BA2XricCT8.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]Piquenique Frustrado[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/DSNHS/Formiga.Tamandua/LS-T01E02.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/1EMQZD2BZHyvejG0ShE1EgThvPx.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9YqDK8rXD9qRVFJ52BA2XricCT8.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Piquenique Frustrado[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/DSNHS/1969.Formiga.Tamandua/LS-T01E02.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9YqDK8rXD9qRVFJ52BA2XricCT8.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]Tia Formiga[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/DSNHS/Formiga.Tamandua/LS-T01E03.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/1EMQZD2BZHyvejG0ShE1EgThvPx.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9YqDK8rXD9qRVFJ52BA2XricCT8.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Tia Formiga[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/DSNHS/1969.Formiga.Tamandua/LS-T01E03.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9YqDK8rXD9qRVFJ52BA2XricCT8.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]Essa Formiga é Minha[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/DSNHS/Formiga.Tamandua/LS-T01E04.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/1EMQZD2BZHyvejG0ShE1EgThvPx.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9YqDK8rXD9qRVFJ52BA2XricCT8.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Essa Formiga é Minha[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/DSNHS/1969.Formiga.Tamandua/LS-T01E04.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9YqDK8rXD9qRVFJ52BA2XricCT8.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]Alta Tecnologia[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/DSNHS/Formiga.Tamandua/LS-T01E05.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/1EMQZD2BZHyvejG0ShE1EgThvPx.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9YqDK8rXD9qRVFJ52BA2XricCT8.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Alta Tecnologia[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/DSNHS/1969.Formiga.Tamandua/LS-T01E05.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9YqDK8rXD9qRVFJ52BA2XricCT8.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]Não Se Meta Com a Formiga[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/DSNHS/Formiga.Tamandua/LS-T01E06.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/1EMQZD2BZHyvejG0ShE1EgThvPx.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9YqDK8rXD9qRVFJ52BA2XricCT8.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Não Se Meta Com a Formiga[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/DSNHS/1969.Formiga.Tamandua/LS-T01E06.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9YqDK8rXD9qRVFJ52BA2XricCT8.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[COLOR orange][B]LS-T01E07[COLOR yellow] -> [COLOR white]Tamanduá Vira-lata[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/DSNHS/Formiga.Tamandua/LS-T01E07.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/1EMQZD2BZHyvejG0ShE1EgThvPx.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9YqDK8rXD9qRVFJ52BA2XricCT8.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Tamanduá Vira-lata[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/DSNHS/1969.Formiga.Tamandua/LS-T01E07.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9YqDK8rXD9qRVFJ52BA2XricCT8.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[COLOR orange][B]LS-T01E08[COLOR yellow] -> [COLOR white]Ilha das Formigas[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/DSNHS/Formiga.Tamandua/LS-T01E08.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/1EMQZD2BZHyvejG0ShE1EgThvPx.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9YqDK8rXD9qRVFJ52BA2XricCT8.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Ilha das Formigas[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/DSNHS/1969.Formiga.Tamandua/LS-T01E08.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9YqDK8rXD9qRVFJ52BA2XricCT8.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[COLOR orange][B]LS-T01E09[COLOR yellow] -> [COLOR white]Amigo Tigre[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/DSNHS/Formiga.Tamandua/LS-T01E09.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/1EMQZD2BZHyvejG0ShE1EgThvPx.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9YqDK8rXD9qRVFJ52BA2XricCT8.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Amigo Tigre[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/DSNHS/1969.Formiga.Tamandua/LS-T01E09.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9YqDK8rXD9qRVFJ52BA2XricCT8.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[COLOR orange][B]LS-T01E10[COLOR yellow] -> [COLOR white]Tamanduá Versus Tamanduá[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/DSNHS/Formiga.Tamandua/LS-T01E10.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/1EMQZD2BZHyvejG0ShE1EgThvPx.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9YqDK8rXD9qRVFJ52BA2XricCT8.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Tamanduá Versus Tamanduá[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/DSNHS/1969.Formiga.Tamandua/LS-T01E10.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9YqDK8rXD9qRVFJ52BA2XricCT8.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[COLOR orange][B]LS-T01E11[COLOR yellow] -> [COLOR white]Espaguete de Formigas[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/DSNHS/Formiga.Tamandua/LS-T01E11.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/1EMQZD2BZHyvejG0ShE1EgThvPx.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9YqDK8rXD9qRVFJ52BA2XricCT8.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Espaguete de Formigas[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/DSNHS/1969.Formiga.Tamandua/LS-T01E11.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9YqDK8rXD9qRVFJ52BA2XricCT8.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[COLOR orange][B]LS-T01E12[COLOR yellow] -> [COLOR white]Fricção Científica[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/DSNHS/Formiga.Tamandua/LS-T01E12.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/1EMQZD2BZHyvejG0ShE1EgThvPx.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9YqDK8rXD9qRVFJ52BA2XricCT8.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Fricção Científica[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/DSNHS/1969.Formiga.Tamandua/LS-T01E12.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/12.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9YqDK8rXD9qRVFJ52BA2XricCT8.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[COLOR orange][B]LS-T01E13[COLOR yellow] -> [COLOR white]Irmãos da Floresta[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/DSNHS/Formiga.Tamandua/LS-T01E13.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/1EMQZD2BZHyvejG0ShE1EgThvPx.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9YqDK8rXD9qRVFJ52BA2XricCT8.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]Irmãos da Floresta[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/DSNHS/1969.Formiga.Tamandua/LS-T01E13.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/13.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9YqDK8rXD9qRVFJ52BA2XricCT8.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[COLOR orange][B]LS-T01E14[COLOR yellow] -> [COLOR white]Tamanduá Congelado[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/DSNHS/Formiga.Tamandua/LS-T01E14.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/1EMQZD2BZHyvejG0ShE1EgThvPx.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9YqDK8rXD9qRVFJ52BA2XricCT8.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]Tamanduá Congelado[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/DSNHS/1969.Formiga.Tamandua/LS-T01E14.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/14.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9YqDK8rXD9qRVFJ52BA2XricCT8.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[COLOR orange][B]LS-T01E15[COLOR yellow] -> [COLOR white]Cuidado com a Formiga Musculosa[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/DSNHS/Formiga.Tamandua/LS-T01E15.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/1EMQZD2BZHyvejG0ShE1EgThvPx.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9YqDK8rXD9qRVFJ52BA2XricCT8.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white]Cuidado com a Formiga Musculosa[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/DSNHS/1969.Formiga.Tamandua/LS-T01E15.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/15.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9YqDK8rXD9qRVFJ52BA2XricCT8.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[COLOR orange][B]LS-T01E16[COLOR yellow] -> [COLOR white]O Cupim e a Formiga[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/DSNHS/Formiga.Tamandua/LS-T01E16.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/1EMQZD2BZHyvejG0ShE1EgThvPx.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9YqDK8rXD9qRVFJ52BA2XricCT8.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white]O Cupim e a Formiga[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/DSNHS/1969.Formiga.Tamandua/LS-T01E16.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/16.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9YqDK8rXD9qRVFJ52BA2XricCT8.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[COLOR orange][B]LS-T01E17[COLOR yellow] -> [COLOR white]Tamanduá Azarado[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/DSNHS/Formiga.Tamandua/LS-T01E17.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/1EMQZD2BZHyvejG0ShE1EgThvPx.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9YqDK8rXD9qRVFJ52BA2XricCT8.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E17[COLOR yellow] -> [COLOR white]Tamanduá Azarado[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/DSNHS/1969.Formiga.Tamandua/LS-T01E17.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/17.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9YqDK8rXD9qRVFJ52BA2XricCT8.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>			
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<title>[COLOR orange][B]ERROS ? CHAME O SUPORTE[/B][/COLOR]</title>	
 <link>ignoreme</link>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>
-<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-<item>
-<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<thumbnail>https://i.ibb.co/BnzRHfz/ERROS-SUPORTE.png</thumbnail>				
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-
