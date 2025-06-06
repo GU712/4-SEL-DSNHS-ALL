@@ -33,20 +33,23 @@ Avise o SUPORTE AO USUÁRIO.
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Máquinas Voadoras (1969) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/refs/heads/main/C2C-DSH-Maquinas.Voadoras-ALL</externallink>
+<name>[COLOR white][B]Máquinas Voadoras (1969) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/refs/heads/main/C2C-SRS-Maquinas.Voadoras.1969-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/kq4RiiymUGPLkEQklmO7vvZ8Pi4.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/zWCmXuBBEBByN7gu2uI4AIIsCt4.jpg</fanart>
 <info>[COLOR white]Assista aqui o desenho: 
 [B]Máquinas Voadoras
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1969
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1969
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 89 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B] Dick Vigarista e sua Esquadrilha Abutre, caçam o pombo-correio Doodle, que leva mensagens secretas na 1ª Guerra.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Dick Vigarista e sua Esquadrilha Abutre, caçam o pombo-correio Doodle, que 
+leva mensagens secretas na 1ª Guerra.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
