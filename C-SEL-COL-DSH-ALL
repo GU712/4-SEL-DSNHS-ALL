@@ -90,15 +90,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Dick Vigarista e Mutley (Desenhos)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/C2-DSH-SEL-COL-DICKVIGARISTA-ALL</externallink>
-<thumbnail>https://i.ibb.co/x7zDZ86/COL-DICKVIGARISTA-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/xLbrVJr/COL-DICKVIGARISTA-FAN-ALL.png</fanart>
+<name>[COLOR white][B]Dick Vigarista e Mutley (Desenhos)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/refs/heads/main/C2-SEL-COL-Dick.Vigarista.Mutley-ALL</externallink>
+<thumbnail>https://i.ibb.co/CpMjrKtH/ESP-JONNYQUEST-DSH-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/HTLNrqWN/COL-DICKVIGARISTA-FAN-ALL.png</fanart>
 <info>[COLOR white]Assista aqui a coleção: 
 [B]Dick Vigarista e Mutley
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -206,18 +209,15 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <channels>
 <channel>
-<name>[COLOR white][B]Jonny Quest (Filmes - Desenhos)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white][B]Jonny Quest (Filmes - Desenhos)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/refs/heads/main/C1-SEL-COL-Jonny.Quest-ALL</externallink>
-<thumbnail>https://i.ibb.co/Lz8ywxNS/COL-JONNYQUEST-ICO-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/DH0D3PBV/COL-JONNYQUEST-FAN.png</fanart>
+<thumbnail>https://i.ibb.co/QKpJ4sX/COL-JONNYQUEST-ICON-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/xjrtw80/COL-JONNYQUEST-FAN-ALL.png</fanart>
 <info>[COLOR white]Assista aqui a coleção: 
 [B]Jonny Quest
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
 [/COLOR]</info>
 </channel>
 </channels>
