@@ -1,91 +1,155 @@
 <item>	
 <title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
 <link>NOLINK</link>	
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>		
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+<thumbnail>https://i.ibb.co/cSQdtqhk/SEL-ITEM-DSH.png</thumbnail>				
+<fanart>https://i.ibb.co/Xr8PH1yT/FAN-2.png</fanart>		
+<info>FAÇA SUA ESCOLHA 
+E DIVIRTA-SE </info>	
 </item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>	
+<title>[COLOR orange][B]As Aventuras do Dr. Doolittle[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://www.themoviedb.org/t/p/original/boh3yY3QTzatgpaPfH6FmjiJGYI.jpg</thumbnail>
+<fanart>https://infantv.com.br/infantv/wp-content/uploads/2017/01/drlittle.jpg</fanart>
+<info>[COLOR white]Assista aqui o desenho: 
+[B]As Aventuras do Dr. Doolittle
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1970
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 17 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]A história do Dr. Doolittle, um veterinário que consegue se comuncar com os 
+animais e viaja ao redo do mundo para ajudá-los.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>	
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]TEMP 01 (1970) 11 EPs - SD DUB[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://www.themoviedb.org/t/p/original/boh3yY3QTzatgpaPfH6FmjiJGYI.jpg</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/01.jpg</thumbnail>
+<fanart>https://infantv.com.br/infantv/wp-content/uploads/2017/01/drlittle.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]Os Gafanhotos Vêm Aí[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/DSNHS/As.Av.do.Dr.Doolittle/LS-T01E01.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/boh3yY3QTzatgpaPfH6FmjiJGYI.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
+<item><title>[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Os Gafanhotos Vêm Aí[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/DSNHS/2-SRS/1970.As.Av.do.Dr.Doolittle/LS-T01E01.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://infantv.com.br/infantv/wp-content/uploads/2017/01/drlittle.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]O Pássaro que Tinha Medo de Voar[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/DSNHS/As.Av.do.Dr.Doolittle/LS-T01E02.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/boh3yY3QTzatgpaPfH6FmjiJGYI.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
+<item><title>[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]O Pássaro que Tinha Medo de Voar[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/DSNHS/2-SRS/1970.As.Av.do.Dr.Doolittle/LS-T01E02.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://infantv.com.br/infantv/wp-content/uploads/2017/01/drlittle.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]A Terra do Tigre Mu[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/DSNHS/As.Av.do.Dr.Doolittle/LS-T01E03.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/boh3yY3QTzatgpaPfH6FmjiJGYI.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
+<item><title>[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]A Terra do Tigre Mu[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/DSNHS/2-SRS/1970.As.Av.do.Dr.Doolittle/LS-T01E03.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://infantv.com.br/infantv/wp-content/uploads/2017/01/drlittle.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]A Grande Corrida do Peru[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/DSNHS/As.Av.do.Dr.Doolittle/LS-T01E04.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/boh3yY3QTzatgpaPfH6FmjiJGYI.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
+<item><title>[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]A Grande Corrida do Peru[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/DSNHS/2-SRS/1970.As.Av.do.Dr.Doolittle/LS-T01E04.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://infantv.com.br/infantv/wp-content/uploads/2017/01/drlittle.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]A Conspiração do Amendoim[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/DSNHS/As.Av.do.Dr.Doolittle/LS-T01E05.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/boh3yY3QTzatgpaPfH6FmjiJGYI.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
+<item><title>[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]A Conspiração do Amendoim[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/DSNHS/2-SRS/1970.As.Av.do.Dr.Doolittle/LS-T01E05.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://infantv.com.br/infantv/wp-content/uploads/2017/01/drlittle.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]O Urso Sem Roupas[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/DSNHS/As.Av.do.Dr.Doolittle/LS-T01E06.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/boh3yY3QTzatgpaPfH6FmjiJGYI.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
+<item><title>[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]O Urso Sem Roupas[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/DSNHS/2-SRS/1970.As.Av.do.Dr.Doolittle/LS-T01E06.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://infantv.com.br/infantv/wp-content/uploads/2017/01/drlittle.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E07[COLOR yellow] -> [COLOR white]O Hipopótamo Voador[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/DSNHS/As.Av.do.Dr.Doolittle/LS-T01E07.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/boh3yY3QTzatgpaPfH6FmjiJGYI.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
+<item><title>[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]O Hipopótamo Voador[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/DSNHS/2-SRS/1970.As.Av.do.Dr.Doolittle/LS-T01E07.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://infantv.com.br/infantv/wp-content/uploads/2017/01/drlittle.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E08[COLOR yellow] -> [COLOR white]Touro Marcado[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/DSNHS/As.Av.do.Dr.Doolittle/LS-T01E08.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/boh3yY3QTzatgpaPfH6FmjiJGYI.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
+<item><title>[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Touro Marcado[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/DSNHS/2-SRS/1970.As.Av.do.Dr.Doolittle/LS-T01E08.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://infantv.com.br/infantv/wp-content/uploads/2017/01/drlittle.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E09[COLOR yellow] -> [COLOR white]Confusão no Circo[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/DSNHS/As.Av.do.Dr.Doolittle/LS-T01E09.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/boh3yY3QTzatgpaPfH6FmjiJGYI.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
+<item><title>[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Confusão no Circo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/DSNHS/2-SRS/1970.As.Av.do.Dr.Doolittle/LS-T01E09.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://infantv.com.br/infantv/wp-content/uploads/2017/01/drlittle.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E10[COLOR yellow] -> [COLOR white]Uma Namorada para o Gorila[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/DSNHS/As.Av.do.Dr.Doolittle/LS-T01E10.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/boh3yY3QTzatgpaPfH6FmjiJGYI.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
+<item><title>[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Uma Namorada para o Gorila[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/DSNHS/2-SRS/1970.As.Av.do.Dr.Doolittle/LS-T01E10.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://infantv.com.br/infantv/wp-content/uploads/2017/01/drlittle.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E11[COLOR yellow] -> [COLOR white]Salvo e Salvador[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/DSNHS/As.Av.do.Dr.Doolittle/LS-T01E11.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/boh3yY3QTzatgpaPfH6FmjiJGYI.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
+<item><title>[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Salvo e Salvador[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/DSNHS/2-SRS/1970.As.Av.do.Dr.Doolittle/LS-T01E11.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://infantv.com.br/infantv/wp-content/uploads/2017/01/drlittle.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>			
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<title>[COLOR orange][B]ERROS ? CHAME O SUPORTE[/B][/COLOR]</title>	
 <link>ignoreme</link>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>
-<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-<item>
-<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<thumbnail>https://i.ibb.co/BnzRHfz/ERROS-SUPORTE.png</thumbnail>				
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
